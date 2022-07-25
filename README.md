@@ -1,16 +1,20 @@
-### Hi there 👋
+![I am a Data Analyst in progress](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-<!--
-**EmmanuelGalvan/EmmanuelGalvan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me
+Hi! I am Emmanuel from Mexico. I am currently in my last semester to become an Actuary. I have a lot of enthusiasm for technology and that led me to discover Data Analyst role and I am trying my best to become one.
 
-Here are some ideas to get you started:
+## TechSkills
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am looking for a Data Analyst certificate from DataCamp
+
+![Datacamp](https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=03E860)
+
+## You can contact me
+[<img src='https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white'>](https://www.linkedin.com/in/angel-emmanuel-hern%C3%A1ndez-366b59238/) 
+
+
