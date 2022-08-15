@@ -1,4 +1,4 @@
-<img src='https://github.com/EmmanuelGalvan/EmmanuelGalvan/blob/main/Banner.png' height="60%">
+<img src='https://github.com/EmmanuelGalvan/EmmanuelGalvan/blob/main/BanmerR.png' height="60%">
 
 ## About me
 Hi! I am Emmanuel from Mexico. I am currently in my last semester to become an Actuary. I have a lot of enthusiasm for technology and that led me to discover Data Analyst role and I am trying my best to become one.
